@@ -9,8 +9,13 @@
 - Open terminal
 - Launch AI Agent such as Antigravity by executing `agy` command
 - Use following prompts
-1. **gender-finder Skill** : "What is the gender of name `Smith`" 
-2. **car-sales-finder Skill** : "What is Car sales for `April 2026`" 
+1. **gender-finder Skill** : "What is the gender of name Smith" 
+2. **car-sales-finder Skill** : "What is Car sales for April 2026" 
+
+
+
+### Youtube Video
+[Agent Skills for Beginners: Learn to Create Open Format Workflows for Claude, Colpilot and Cursor](https://www.youtube.com/watch?v=wzz724H7T2M)
 
 # License or Terms of Use
 This project is open-source. However, no part of the source code may be republished, modified, or distributed for commercial or public purposes without giving appropriate credit to the original author.

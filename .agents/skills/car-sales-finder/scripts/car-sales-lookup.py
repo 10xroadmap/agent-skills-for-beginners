@@ -31,7 +31,7 @@ if __name__ == "__main__":
             year = sys.argv[1]
             month = sys.argv[2]
         else:
-            print(json.dumps({"error": "Missing arguments. Usyear: --year <year> --month <month>"}))
+            print(json.dumps({"error": "Missing arguments. year: --year <year> --month <month>"}))
             sys.exit(1)         
     print(get_car_sales(year, month))
 

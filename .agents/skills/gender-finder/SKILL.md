@@ -15,3 +15,12 @@ Parse output in JSON format and extract value of `gender` and `probability` fiel
 - if `gender` is female and `probability` is greater than 0.5 print `female`
 - if `gender` is female and `probability` is less than or equal to 0.5 print `male`
 
+# When we execute
+# https://api.genderize.io/?name=Smith
+# we get
+# {
+#   "count": 16271,
+#   "name": "Smith",
+#   "gender": "male",
+#   "probability": 0.82
+# }
